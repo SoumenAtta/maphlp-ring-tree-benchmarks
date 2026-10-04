@@ -1,2 +1,2 @@
-# maphlp-ring-tree-benchmarks
-Benchmark instances and supplementary results for multiple-allocation p-hub location with ring and tree backbone networks.
+# Supplementary materials · benchmark instances
+## Multiple Allocation p-Hub Location Problems with Ring and Tree Backbone Networks for VoD Content Placement
